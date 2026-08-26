@@ -126,7 +126,7 @@ This allows users to move from **high-level workforce metrics** to detailed attr
 
 ### Attrition Analysis
 
-![Attrition Analysis](images/attrition-analysis.png)
+images/Analysis Attrition.png
 
 ### Additional Analysis
 
