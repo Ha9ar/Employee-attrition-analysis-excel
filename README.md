@@ -126,11 +126,11 @@ This allows users to move from **high-level workforce metrics** to detailed attr
 
 ### Attrition Analysis
 
-images/Analysis Attrition.png
+![Attrition Analysis](images/Analysis%20Attrition.png)
 
 ### Additional Analysis
 
-![Additional Attrition Analysis](images/attrition-analysis-1.png)
+![Additional Attrition Analysis](images/Analysis%20Attrition%201.png)
 
 ## 📁 Project Structure
 
