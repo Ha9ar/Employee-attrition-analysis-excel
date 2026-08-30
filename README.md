@@ -1,4 +1,3 @@
-
 # 📊 Employee Attrition Analysis & Interactive Dashboard
 
 > **Turning employee data into actionable insights with Microsoft Excel.**
@@ -12,6 +11,7 @@ The project transforms raw employee data into **interactive visual insights** us
 ## 🎯 Business Problem
 
 Employee attrition can impact workforce stability, productivity, and business costs.
+
 This analysis aims to explore **employee turnover patterns** and identify characteristics and factors associated with employees leaving the company.
 
 ## 🔍 Analytical Objectives
@@ -74,27 +74,34 @@ Key preparation steps included:
 
 ## 📈 Key Findings
 
-The analysis revealed several notable patterns among employees who left the company:
+The analysis identified several notable patterns among the **237 employees who left the company**:
 
-| Metric                    |    Finding |
-| ------------------------- | ---------: |
-| Total Employees           |  **1,470** |
-| Employees Who Left        |    **237** |
-| Overall Attrition Rate    | **16.12%** |
-| Male Employees Who Left   |    **150** |
-| Female Employees Who Left |     **87** |
-| Bachelor's Degree         |     **99** |
-| Master's Degree           |     **58** |
+| Metric                        |    Finding |
+| ----------------------------- | ---------: |
+| Total Employees               |  **1,470** |
+| Employees Who Left            |    **237** |
+| Overall Attrition Rate        | **16.12%** |
+| Male Employees Who Left       |    **150** |
+| Female Employees Who Left     |     **87** |
+| Bachelor's Degree Leavers     |     **99** |
+| Master's Degree Leavers       |     **58** |
+| R&D Department Leavers        |    **133** |
+| Laboratory Technician Leavers |     **62** |
+| Sales Executive Leavers       |     **57** |
 
 ### 🔎 Key Observations
 
-* Employees who left generally had **Monthly Income below the overall average**.
-* **Bachelor's degree** was the most common education level among employees who left.
-* Attrition was analyzed across **departments and job roles** to identify areas with higher turnover.
-* **Business Travel** was examined as a potential factor associated with employee attrition.
-* **Overtime** was analyzed to explore its relationship with employee turnover.
-* **Years Since Last Promotion** was included to investigate potential patterns related to career progression.
-* **Distance From Home** was analyzed to explore whether commuting distance may be associated with attrition.
+* Employees who left generally had **Monthly Income below the overall workforce average**.
+* **Research & Development** had the highest number of employees who left, with **133 employees**.
+* The most affected job roles included **Laboratory Technician (62)** and **Sales Executive (57)**.
+* **Bachelor's degree** was the most common education level among employees who left, accounting for **99 of the 237 leavers**.
+* **95 of the 99 Bachelor's degree leavers** traveled for work either frequently or occasionally.
+* **127 of the 237 employees who left (53.5%)** worked overtime.
+* **225 of the 237 employees who left (94.9%)** traveled for work either frequently or occasionally.
+* The average **Distance From Home** among employees who left was **10.37 km**, which was higher than the average among employees who stayed.
+* **Years Since Last Promotion** was analyzed to investigate potential patterns related to career progression and employee turnover.
+
+> **Note:** These findings identify patterns and associations within the dataset; they do not establish direct causation.
 
 ## 📊 Dashboard & Interactivity
 
@@ -124,11 +131,11 @@ This allows users to move from **high-level workforce metrics** to detailed attr
 
 ### Attrition Analysis
 
-![Attrition Analysis](images/Analysis%20Attrition.png)
+![Attrition Analysis](images/attrition-analysis.png)
 
 ### Additional Analysis
 
-![Additional Attrition Analysis](images/Analysis%20Attrition%201.png)
+![Additional Attrition Analysis](images/attrition-analysis-1.png)
 
 ## 📁 Project Structure
 
@@ -146,9 +153,11 @@ employee-attrition-analysis-excel/
 
 ## 💡 Conclusion
 
-This project demonstrates how **Microsoft Excel can be used as a complete data analytics tool**, from data preparation and exploratory analysis to interactive visualization and insight generation.
+This project demonstrates the ability to transform raw employee data into **structured analysis, meaningful KPIs, interactive visualizations, and actionable insights using Microsoft Excel**.
 
-The analysis provides a structured view of employee attrition and highlights key areas that can support further investigation into **employee turnover and workforce stability**.
+The analysis provides a structured view of employee attrition and highlights areas that can support further investigation into **employee turnover and workforce stability**.
+
+It also demonstrates practical experience in **data preparation, descriptive analysis, comparative analysis, data visualization, and dashboard development** using Excel.
 
 ## 👩‍💻 Author
 
@@ -159,4 +168,3 @@ The analysis provides a structured view of employee attrition and highlights key
 ---
 
 ⭐ If you find this project useful, feel free to explore the dashboard and analysis.
-
